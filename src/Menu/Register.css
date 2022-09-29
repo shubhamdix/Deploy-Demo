@@ -1,0 +1,32 @@
+html {
+    height: 100%;
+  }
+  
+
+  .register-box {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    width: 700px;
+    padding: 10px;
+    transform: translate(-50%, -50%);
+    background: rgba(100, 95, 95, 0.5);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+    border-radius: 10px;
+    text-align: center;
+  }
+
+    .btn-secondary {
+    width: 140px;
+    /*font-size: 20px;*/
+    padding: 3px;
+    border: 0px;
+    /*background-color: #416ce2;*/
+    /*color: white;*/
+    /*margin-bottom: 17px;*/
+    text-align: center;
+    border-radius: 10px;
+ }
+ 
+ 
